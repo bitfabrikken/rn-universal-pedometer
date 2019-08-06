@@ -1,6 +1,6 @@
 {
   "name": "rn-universal-pedometer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native universal pedometer.",
   "main": "index.js",
   "scripts": {
